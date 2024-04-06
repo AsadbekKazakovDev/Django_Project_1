@@ -1,0 +1,14 @@
+body {
+    color: blanchedalmond;
+    font-family: Arial, sans-serif;
+    background-color: #dd3131;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #cc0e0e;
+    background-color: rgb(26, 221, 156);
+    text-align: center;
+    margin-top: 100px;
+}
